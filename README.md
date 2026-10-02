@@ -1,4 +1,4 @@
-# Neko Cafe (=^.^=) — RA1
+# Neko Cafe (=^.^=)
 
 Project of the course **AI-Assisted Python for Business Problem Solving** (PUCPR, Prof. Evandro Zatti).
 
