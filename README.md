@@ -1,6 +1,6 @@
 # Neko Cafe (=^.^=) — RA1
 
-First deliverable (RA1) of the course **AI-Assisted Python for Business Problem Solving** (PUCPR, Prof. Evandro Zatti).
+Project of the course **AI-Assisted Python for Business Problem Solving** (PUCPR, Prof. Evandro Zatti).
 
 A terminal Python script for a **kawaii cat cafe**: it calculates the value of each visit, records the sales of the day and controls which kittens can receive visits according to each cat's welfare.
 
