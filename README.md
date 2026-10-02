@@ -4,6 +4,8 @@ Project of the course **AI-Assisted Python for Business Problem Solving** (PUCPR
 
 A terminal Python script for a **kawaii cat cafe**: it calculates the value of each visit, records the sales of the day and controls which kittens can receive visits according to each cat's welfare.
 
+> (=^･ω･^=)ﾉ♡ **[full documentation on Notion](https://app.notion.com/p/Documentation-Neko-Coffe-3ec7cf6803c7804b94a5fa2dbbc15e62)** — artifacts, prompts and all the kitty secrets inside! ☕🐾
+
 ```
 --- Neko Cafe Receipt ---
 Customer: Ana | Cat: Mochi (=^.^=)
