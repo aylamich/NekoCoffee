@@ -1,0 +1,11 @@
+# Internal files (the official documentation is on Notion)
+docs/PROMPTS_LOG.md
+CONTEXTO_CODIGO.md
+CONTEXTO_DOCUMENTACAO.md
+
+# Portuguese version of the script (kept locally only)
+neko_cafe_pt.py
+
+# Python
+__pycache__/
+*.pyc
